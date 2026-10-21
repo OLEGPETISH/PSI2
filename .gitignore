@@ -4,5 +4,6 @@ __pycache__/
 venv/
 *.py[cod]
 students.xlsx
+tickets.docx
 results.xlsx
 ticket_generator.log
